@@ -16,6 +16,7 @@ A través del análisis se calcularon indicadores financieros como beneficio bru
 - Cálculo de ingresos, costos, margen y ROI
 - Análisis de rentabilidad por país
 - Optimización de decisiones basadas en datos
+
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-green?style=for-the-badge) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-blue?style=for-the-badge) </td> </tr> </table> --- <table> <tr> <td width="230"> <img src="https://cdn-icons-png.flaticon.com/512/854/854878.png" width="180"> </td> <td> 
 
 ## 🚖 Análisis de movilidad urbana y productividad económica 
@@ -27,5 +28,6 @@ Durante el proyecto se realizaron procesos de limpieza, validación y visualizac
 - Limpieza y validación de datasets
 - Creación de dashboards y visualizaciones
 - Identificación de tendencias y patrones urbanos
+
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge) ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge) ![Power BI](https://img.shields.io/badge/Power_BI-yellow?style=for-the-badge) </td> </tr> </table>
 

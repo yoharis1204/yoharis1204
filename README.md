@@ -4,8 +4,7 @@ Soy una analista de datos en formación apasionada por la tecnología, los datos
 
 He desarrollado proyectos de análisis exploratorio, dashboards interactivos y análisis de indicadores económicos y financieros, combinando mi visión de negocios con habilidades analíticas para generar valor mediante los datos.
 
-# 📫 Contacto
-<p align="left"> <a href="mailto:yoharis1204@live.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://www.linkedin.com/in/yohariscastillo/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </p>
+# 📫 Contacto <p align="left"> <a href="mailto:yoharis1204@live.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://www.linkedin.com/in/yohariscastillo/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </p>
 
 **🚀 Mis Proyectos**
 <table> <tr> <td width="230"> <img src="https://cdn-icons-png.flaticon.com/512/2933/2933245.png" width="180"> </td> <td>

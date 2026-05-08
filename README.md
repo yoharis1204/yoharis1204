@@ -1,6 +1,4 @@
-
-
-#📊 Junior Data Analyst | 🌎 Negocios Internacionales
+# 📊 Junior Data Analyst | 🌎 Negocios Internacionales
 
 Soy una analista de datos en formación apasionada por la tecnología, los datos y la toma de decisiones estratégicas. Actualmente me estoy formando en un bootcamp de Data Analysis, trabajando con Python, SQL, Power BI y Pandas para transformar datos en insights accionables.
 

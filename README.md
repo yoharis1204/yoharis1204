@@ -7,7 +7,7 @@ He desarrollado proyectos de análisis exploratorio, dashboards interactivos y a
 **🚀 Mis Proyectos**
 <table> <tr> <td width="230"> <img src="https://cdn-icons-png.flaticon.com/512/2933/2933245.png" width="180"> </td> <td>
 
-## 📊 Adventure Works Financial Analysis 
+## 📊 [Adventure Works Financial Analysis](https://github.com/TUUSUARIO/adventure-works-analysis) 
 El objetivo de este proyecto fue analizar el desempeño financiero de distintos mercados utilizando SQL y Google Sheets para identificar cuáles países generan mayores ingresos y rentabilidad. Se buscó evaluar el impacto de los costos operativos y las campañas de marketing sobre el ROI de cada territorio.
 
 A través del análisis se calcularon indicadores financieros como beneficio bruto, margen y retorno de inversión, permitiendo detectar oportunidades de optimización en la asignación del presupuesto de marketing y fortalecer la toma de decisiones basada en datos.
@@ -29,5 +29,5 @@ Durante el proyecto se realizaron procesos de limpieza, validación y visualizac
 - Creación de dashboards y visualizaciones
 - Identificación de tendencias y patrones urbanos
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge) ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge) ![Power BI](https://img.shields.io/badge/Power_BI-yellow?style=for-the-badge) </td> </tr> </table>
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge) ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge) </td> </tr> </table>
 

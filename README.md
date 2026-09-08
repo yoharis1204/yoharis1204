@@ -14,7 +14,16 @@ El análisis de datos permite identificar patrones de compra, productos más ven
 
 #### Herramientas y tipo de proyecto
 
-[Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white) [Pandas](https://img.shields.io/badge/pandas-%23357ebd.svg?style=for-the-badge&logo=pandas&logoColor=white) [Matplotlib](https://img.shields.io/badge/Matplotlib-357ebd?style=for-the-badge) [Limpieza de datos](https://img.shields.io/badge/Limpieza_de_datos-295F98?style=for-the-badge) [Análisis exploratorio](https://img.shields.io/badge/An%C3%A1lisis_exploratorio-295F98?style=for-the-badge) [Segmentación de clientes](https://img.shields.io/badge/Segmentaci%C3%B3n_de_clientes-295F98?style=for-the-badge)
+[![Python](https://img.shields.io/badge/Python-357ebd?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-357ebd?style=for-the-badge\&logo=pandas\&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-357ebd?style=for-the-badge\&logo=matplotlib\&logoColor=white)](https://matplotlib.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-357ebd?style=for-the-badge\&logo=jupyter\&logoColor=white)](https://jupyter.org/)
+
+[![Limpieza de datos](https://img.shields.io/badge/Limpieza_de_datos-295F98?style=for-the-badge)](#)
+[![Transformación de datos](https://img.shields.io/badge/Transformaci%C3%B3n_de_datos-295F98?style=for-the-badge)](#)
+[![Análisis exploratorio](https://img.shields.io/badge/An%C3%A1lisis_exploratorio-295F98?style=for-the-badge)](#)
+[![Análisis RFM](https://img.shields.io/badge/An%C3%A1lisis_RFM-295F98?style=for-the-badge)](#)
+[![Análisis de devoluciones](https://img.shields.io/badge/An%C3%A1lisis_de_devoluciones-295F98?style=for-the-badge)](#)
 
 ### Preguntas clave
 

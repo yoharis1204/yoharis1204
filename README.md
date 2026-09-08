@@ -7,7 +7,6 @@ He desarrollado proyectos de análisis exploratorio, dashboards interactivos y a
 # 📫 Contacto <p align="left"> <a href="mailto:yoharis1204@live.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://www.linkedin.com/in/yohariscastillo/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </p>
 
 **🚀 Mis Proyectos**
-<table> <tr> <td width="230"> <img src="https://cdn-icons-png.flaticon.com/512/2933/2933245.png" width="180"> </td> <td>
 
 # Análisis de ventas y comportamiento de clientes – Online Retail
 
@@ -50,10 +49,9 @@ El análisis de datos permite identificar patrones de compra, productos más ven
 
 ### Visualizaciones destacadas
 
-1. **Ventas por país:** Permite identificar los mercados con mayor contribución a las ventas.
+1. **Evolución mensual de las ventas :** Permite identificar la tendencia de las ventas en el tiempo.
 2. <img width="894" height="416" alt="Captura de pantalla 2026-09-08 160331" src="https://github.com/user-attachments/assets/42d51494-da15-4940-b6be-293d6b01ab87" />
-3. **Top de productos:** Muestra los productos con mayor volumen de ventas.
-4. **Segmentación RFM:** Permite visualizar los diferentes grupos de clientes según recencia, frecuencia y valor monetario.
-5. **Análisis de devoluciones:** Identifica los productos y mercados con mayor cantidad de transacciones devueltas.
+3. **Ingresos por segmentación RFM:** Permite visualizar la proporción de los ingresos segmentados por los grupos de clientes según recencia, frecuencia y valor monetario.
+4. <img width="812" height="448" alt="Captura de pantalla 2026-09-08 160410" src="https://github.com/user-attachments/assets/bf13560c-2155-4335-bb74-ae9531906462" />
 
 **Explora más detalles del proyecto en el repositorio completo.**

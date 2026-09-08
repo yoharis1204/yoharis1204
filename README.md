@@ -73,7 +73,8 @@ El análisis de datos permite identificar patrones de compra, productos más ven
 
 Las empresas necesitan conocer qué mercados generan mayores beneficios y si la inversión realizada en marketing realmente contribuye al crecimiento de las ventas. En este proyecto se analiza el desempeño financiero de **Adventure Works** por territorio, evaluando los ingresos, costos, rentabilidad y retorno de la inversión en marketing para **identificar los mercados más rentables y apoyar la optimización del presupuesto comercial**.
 
-Herramientas y tipo de proyecto
+**Herramientas y tipo de proyecto**
+
 ![SQL](https://img.shields.io/badge/SQL-295F98?style=for-the-badge)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-295F98?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Análisis financiero](https://img.shields.io/badge/Análisis%20financiero-295F98?style=for-the-badge)
@@ -118,4 +119,3 @@ Herramientas y tipo de proyecto
 [![GitHub](https://img.shields.io/badge/GitHub-295F98?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yoharis1204/adventureworks-rentabilidad-de-inversion)
 ```
 
-**🔗 [Ver proyecto completo en GitHub](https://github.com/yoharis1204/adventureworks-rentabilidad-de-inversion)**

@@ -59,8 +59,10 @@ El análisis de datos permite identificar patrones de compra, productos más ven
 ### Visualizaciones destacadas
 
 1. **Evolución mensual de las ventas :** Permite identificar la tendencia de las ventas en el tiempo.
+2. 
 <img width="894" height="416" alt="Captura de pantalla 2026-09-08 160331" src="https://github.com/user-attachments/assets/42d51494-da15-4940-b6be-293d6b01ab87" />
-2. **Ingresos por segmentación RFM:** Permite visualizar la proporción de los ingresos segmentados por los grupos de clientes según recencia, frecuencia y valor monetario.
+3. **Ingresos por segmentación RFM:** Permite visualizar la proporción de los ingresos segmentados por los grupos de clientes según recencia, frecuencia y valor monetario.
+4. 
 <img width="812" height="448" alt="Captura de pantalla 2026-09-08 160410" src="https://github.com/user-attachments/assets/bf13560c-2155-4335-bb74-ae9531906462" />
 
 **🔗 [Ver proyecto completo en GitHub](https://github.com/yoharis1204/Online-Retail-Sales-Customer-Analysis/blob/main/Untitled1.ipynb)**

@@ -67,3 +67,50 @@ El análisis de datos permite identificar patrones de compra, productos más ven
 <img width="812" height="448" alt="Captura de pantalla 2026-09-08 160410" src="https://github.com/user-attachments/assets/bf13560c-2155-4335-bb74-ae9531906462" />
 
 **🔗 [Ver proyecto completo en GitHub](https://github.com/yoharis1204/Online-Retail-Sales-Customer-Analysis/blob/main/Untitled1.ipynb)**
+
+
+# Análisis financiero y rentabilidad de mercados – Adventure Works
+
+Las empresas necesitan conocer qué mercados generan mayores beneficios y si la inversión realizada en marketing realmente contribuye al crecimiento de las ventas. En este proyecto se analiza el desempeño financiero de **Adventure Works** por territorio, evaluando los ingresos, costos, rentabilidad y retorno de la inversión en marketing para **identificar los mercados más rentables y apoyar la optimización del presupuesto comercial**.
+
+#### Herramientas y tipo de proyecto
+
+[SQL](https://www.postgresql.org/) ([image](https://img.shields.io/badge/SQL-295F98?style=for-the-badge&logo=postgresql&logoColor=white)) [Google Sheets](https://www.google.com/sheets/about/) ([image](https://img.shields.io/badge/Google_Sheets-295F98?style=for-the-badge&logo=googlesheets&logoColor=white))
+
+[Consultas SQL](https://www.postgresql.org/docs/) ([image](https://img.shields.io/badge/Consultas_SQL-295F98?style=for-the-badge)) [Análisis financiero](https://img.shields.io/) ([image](https://img.shields.io/badge/An%C3%A1lisis_financiero-295F98?style=for-the-badge)) [KPIs](https://img.shields.io/) ([image](https://img.shields.io/badge/KPIs-295F98?style=for-the-badge)) [ROI](https://img.shields.io/) ([image](https://img.shields.io/badge/ROI-295F98?style=for-the-badge))
+
+### Preguntas clave
+
+1. ¿Qué países generan mayores ingresos y beneficios para la empresa?
+2. ¿Qué mercados presentan mayor margen de rentabilidad?
+3. ¿Qué tan eficiente es la inversión en marketing en cada territorio?
+4. ¿Una mayor inversión en marketing se relaciona con una mayor rentabilidad?
+5. ¿Qué mercados deberían recibir mayor prioridad en la asignación del presupuesto?
+
+### Metodología
+
+* **Integración de datos:** Se combinaron tablas de ventas, productos, categorías, territorios y campañas de marketing mediante consultas SQL.
+* **Cálculo de ingresos y costos:** Se calcularon los ingresos y costos asociados a las unidades vendidas.
+* **Análisis de rentabilidad:** Se obtuvieron indicadores como beneficio bruto y margen de rentabilidad para cada territorio.
+* **Análisis de inversión:** Se incorporaron los gastos de marketing para evaluar el rendimiento de la inversión.
+* **Cálculo de ROI:** Se comparó el beneficio generado con la inversión realizada en marketing para determinar la eficiencia de cada mercado.
+
+### Conclusiones y recomendaciones
+
+#### Hallazgos principales:
+
+* **Estados Unidos** presentó los mayores ingresos y beneficios, además de uno de los mejores niveles de retorno sobre la inversión.
+* **Australia** destacó como otro de los mercados con buen desempeño financiero y una rentabilidad atractiva.
+* Reino Unido, Alemania y Francia presentaron márgenes similares, pero una menor eficiencia en términos de ROI debido a sus niveles de inversión en marketing.
+* Una mayor inversión en marketing **no garantiza necesariamente un mayor retorno**, por lo que es importante evaluar la eficiencia del gasto en cada territorio.
+
+#### Estrategias recomendadas:
+
+* Priorizar la inversión en los mercados con mejores niveles de rentabilidad y ROI.
+* Revisar el presupuesto destinado a territorios con bajo retorno.
+* Evaluar periódicamente la relación entre inversión en marketing, ingresos y beneficio.
+* Utilizar indicadores financieros para apoyar la toma de decisiones sobre expansión y asignación de recursos.
+
+
+📊 [**Explorar análisis completo en GitHub**](https://github.com/yoharis1204/Adventureworks-rentabilidad-de-inversión)
+

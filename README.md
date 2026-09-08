@@ -9,27 +9,51 @@ He desarrollado proyectos de análisis exploratorio, dashboards interactivos y a
 **🚀 Mis Proyectos**
 <table> <tr> <td width="230"> <img src="https://cdn-icons-png.flaticon.com/512/2933/2933245.png" width="180"> </td> <td>
 
-## 📊 [Adventure Works Financial Analysis](https://github.com/yoharis1204/adventureworks-rentabilidad-de-inversion) 
-El objetivo de este proyecto fue analizar el desempeño financiero de distintos mercados utilizando SQL y Google Sheets para identificar cuáles países generan mayores ingresos y rentabilidad. Se buscó evaluar el impacto de los costos operativos y las campañas de marketing sobre el ROI de cada territorio.
+# Análisis de ventas y comportamiento de clientes – Online Retail
 
-A través del análisis se calcularon indicadores financieros como beneficio bruto, margen y retorno de inversión, permitiendo detectar oportunidades de optimización en la asignación del presupuesto de marketing y fortalecer la toma de decisiones basada en datos.
+El análisis de datos permite identificar patrones de compra, productos más vendidos y características del comportamiento de los clientes. En este proyecto se analiza un conjunto de datos de transacciones de una tienda online para **evaluar el desempeño de las ventas, identificar clientes de mayor valor y analizar las devoluciones**.
 
-✨ Principales logros: 
-- Cálculo de ingresos, costos, margen y ROI
-- Análisis de rentabilidad por país
-- Optimización de decisiones basadas en datos
+#### Herramientas y tipo de proyecto
 
-![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-green?style=for-the-badge) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-blue?style=for-the-badge) </td> </tr> </table> --- <table> <tr> <td width="230"> <img src="https://cdn-icons-png.flaticon.com/512/854/854878.png" width="180"> </td> <td> 
+[Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white) [Pandas](https://img.shields.io/badge/pandas-%23357ebd.svg?style=for-the-badge&logo=pandas&logoColor=white) [Matplotlib](https://img.shields.io/badge/Matplotlib-357ebd?style=for-the-badge) [Limpieza de datos](https://img.shields.io/badge/Limpieza_de_datos-295F98?style=for-the-badge) [Análisis exploratorio](https://img.shields.io/badge/An%C3%A1lisis_exploratorio-295F98?style=for-the-badge) [Segmentación de clientes](https://img.shields.io/badge/Segmentaci%C3%B3n_de_clientes-295F98?style=for-the-badge)
 
-## 🚖 Análisis de movilidad urbana y productividad económica 
-Este proyecto tuvo como objetivo analizar la relación entre la congestión vehicular y la productividad económica en diferentes ciudades utilizando Python y análisis exploratorio de datos. Se buscó identificar patrones entre tráfico, tiempos de retraso y variables económicas para comprender cómo la movilidad impacta el desempeño urbano.
+### Preguntas clave
 
-Durante el proyecto se realizaron procesos de limpieza, validación y visualización de datos, desarrollando dashboards y gráficos que facilitaron la interpretación de tendencias y hallazgos clave para apoyar decisiones basadas en datos.
+1. ¿Cuáles son los productos y países que generan mayores ventas?
+2. ¿Cómo se comportan las ventas a lo largo del tiempo?
+3. ¿Qué clientes tienen mayor valor para el negocio?
+4. ¿Qué productos presentan mayores niveles de devolución?
 
-✨ Principales logros: 
-- Limpieza y validación de datasets
-- Creación de dashboards y visualizaciones
-- Identificación de tendencias y patrones urbanos
+### Metodología
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge) ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge) </td> </tr> </table>
+* **Limpieza de datos:** Se trataron valores nulos, registros duplicados, valores negativos y se estandarizaron categorías y nombres de países.
+* **Transformación de datos:** Se crearon nuevas variables para facilitar el análisis, como el valor total de cada transacción.
+* **Análisis exploratorio (EDA):** Se analizaron las ventas por periodo, producto, país y cliente para identificar patrones y tendencias.
+* **Análisis de clientes:** Se aplicó un análisis **RFM (Recency, Frequency, Monetary)** para identificar y segmentar clientes según su comportamiento de compra.
+* **Análisis de devoluciones:** Se identificaron productos y patrones asociados a las transacciones devueltas.
 
+### Conclusiones y recomendaciones
+
+#### Hallazgos principales:
+
+* Se identificaron los productos y mercados con mayor participación en las ventas.
+* El comportamiento de compra presenta diferencias importantes entre los clientes.
+* El análisis RFM permitió identificar **clientes de alto valor, clientes frecuentes y clientes con riesgo de inactividad**.
+* Las devoluciones representan un aspecto relevante para evaluar el desempeño de determinados productos.
+
+#### Estrategias recomendadas:
+
+* **Fidelización:** Diseñar estrategias específicas para los clientes de mayor valor.
+* **Reactivación:** Implementar campañas dirigidas a clientes con baja recencia.
+* **Optimización del catálogo:** Analizar los productos con mayores niveles de devolución.
+* **Segmentación:** Utilizar los segmentos RFM para personalizar campañas comerciales.
+
+### Visualizaciones destacadas
+
+1. **Ventas por país:** Permite identificar los mercados con mayor contribución a las ventas.
+2. <img width="894" height="416" alt="Captura de pantalla 2026-09-08 160331" src="https://github.com/user-attachments/assets/42d51494-da15-4940-b6be-293d6b01ab87" />
+3. **Top de productos:** Muestra los productos con mayor volumen de ventas.
+4. **Segmentación RFM:** Permite visualizar los diferentes grupos de clientes según recencia, frecuencia y valor monetario.
+5. **Análisis de devoluciones:** Identifica los productos y mercados con mayor cantidad de transacciones devueltas.
+
+**Explora más detalles del proyecto en el repositorio completo.**

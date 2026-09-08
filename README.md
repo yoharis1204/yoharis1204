@@ -73,11 +73,14 @@ El análisis de datos permite identificar patrones de compra, productos más ven
 
 Las empresas necesitan conocer qué mercados generan mayores beneficios y si la inversión realizada en marketing realmente contribuye al crecimiento de las ventas. En este proyecto se analiza el desempeño financiero de **Adventure Works** por territorio, evaluando los ingresos, costos, rentabilidad y retorno de la inversión en marketing para **identificar los mercados más rentables y apoyar la optimización del presupuesto comercial**.
 
-#### Herramientas y tipo de proyecto
+Herramientas y tipo de proyecto
+![SQL](https://img.shields.io/badge/SQL-295F98?style=for-the-badge)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-295F98?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Análisis financiero](https://img.shields.io/badge/Análisis%20financiero-295F98?style=for-the-badge)
+![Consultas SQL](https://img.shields.io/badge/Consultas%20SQL-295F98?style=for-the-badge)
+![KPIs](https://img.shields.io/badge/KPIs-295F98?style=for-the-badge)
+![ROI](https://img.shields.io/badge/ROI-295F98?style=for-the-badge)
 
-[SQL](https://www.postgresql.org/) ([image](https://img.shields.io/badge/SQL-295F98?style=for-the-badge&logo=postgresql&logoColor=white)) [Google Sheets](https://www.google.com/sheets/about/) ([image](https://img.shields.io/badge/Google_Sheets-295F98?style=for-the-badge&logo=googlesheets&logoColor=white))
-
-[Consultas SQL](https://www.postgresql.org/docs/) ([image](https://img.shields.io/badge/Consultas_SQL-295F98?style=for-the-badge)) [Análisis financiero](https://img.shields.io/) ([image](https://img.shields.io/badge/An%C3%A1lisis_financiero-295F98?style=for-the-badge)) [KPIs](https://img.shields.io/) ([image](https://img.shields.io/badge/KPIs-295F98?style=for-the-badge)) [ROI](https://img.shields.io/) ([image](https://img.shields.io/badge/ROI-295F98?style=for-the-badge))
 
 ### Preguntas clave
 
@@ -112,5 +115,7 @@ Las empresas necesitan conocer qué mercados generan mayores beneficios y si la 
 * Utilizar indicadores financieros para apoyar la toma de decisiones sobre expansión y asignación de recursos.
 
 
-📊 [**Explorar análisis completo en GitHub**](https://github.com/yoharis1204/Adventureworks-rentabilidad-de-inversión)
+[![GitHub](https://img.shields.io/badge/GitHub-295F98?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yoharis1204/adventureworks-rentabilidad-de-inversion)
+```
+
 
